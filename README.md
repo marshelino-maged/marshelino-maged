@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marshelino</h1>
 <h3 align="center">A passionate CSED student @ Alexandria University</h3>
 
-- 🔭 I’m currently working as **SWE intern @ INOVA**
-
-- 🌱 I’m currently learning **Docker and Kubernetes**
-
-- 📫 How to reach me **marshelinomaged@gmail.com**
+- How to reach me **marshelinomaged@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
