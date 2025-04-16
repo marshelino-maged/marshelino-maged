@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marshelino</h1>
-<h3 align="center">A passionate CSED student @ Alexandria University</h3>
+<h3 align="center">A passionate CSE student @ Alexandria University</h3>
 
 - How to reach me **marshelinomaged@gmail.com**
 
